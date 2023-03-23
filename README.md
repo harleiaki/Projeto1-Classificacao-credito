@@ -1,1 +1,1 @@
-# Projeto1-Classifica-o-cr-dito
+# Projeto1-Classificacao-credito
